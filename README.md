@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petith-au
-- 👀 I’m interested in Java and UI development, with some specialisation in the Fenestration Industry.
+- 👀 I’m interested in Java and UI development, with some interest for applications in the Fenestration or Construction Industries.
 - 🌱 I’m studying a Bachelor's of Computer Science with Charles Sturt (CSU).
 - 💞️ I’m looking to collaborate on any java based applications.
 - 📫 How to reach me: michaelpetith@hotmail.com
