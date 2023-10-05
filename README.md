@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @petith-au
-- 👀 I’m interested in Java and UI development, with some interest for applications in the Fenestration or Construction Industries.
-- 🌱 I’m studying a Bachelor's of Computer Science with Charles Sturt (CSU).
-- 💞️ I’m looking to collaborate on any java based applications.
-- 📫 add and start a conversation with me on linkedin. https://www.linkedin.com/in/michael-petith-93782492/
+- Full Stack Developer
+- My experience is mostly focused on the solutions in the construction industry, with specialisation on fenestration software products.
+- Add and start a conversation with me on linkedin. https://www.linkedin.com/in/michael-petith-93782492/
+
+Note: Inactivity is due to most projects being private. Please contact me for more information and how we can work together on future projects.
 
 <!---
 petith-au/petith-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
